@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+#canvas {
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#set-container {
+    position: fixed;
+    top: 10;
+    right: 5vh;
+    width: 200px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    z-index: 999;
+}
+
+#canvas-container {
+    margin-right: 220px;
+}
+
+.form-control:focus {
+    border-color: black;
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
+}
+
+#color:hover {
+    cursor: pointer ;
+}

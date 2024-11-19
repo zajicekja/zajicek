@@ -1,0 +1,1 @@
+A dynamic JavaScript application for plotting mathematical functions on a responsive canvas with interactive controls.
